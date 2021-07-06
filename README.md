@@ -1,4 +1,4 @@
-# flutter_image_picker_cropper
+# Flutter Image Picker & Cropper
 
 A new Flutter application.
 
