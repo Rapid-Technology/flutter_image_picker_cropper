@@ -1,6 +1,6 @@
 # Flutter Image Picker & Cropper
 
-A new Flutter application.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/MVEkFMp4uw0/maxresdefault.jpg)](https://www.youtube.com/watch?v=MVEkFMp4uw0)
 
 ## Getting Started
 
